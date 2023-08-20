@@ -19,11 +19,19 @@ print(student_id)
 
 # display type of student_id
 print(type(student_id))
->>>>>>> branch1
 
 
 
 
 
 
-hi nisha my name is nislskjflasjflkjaksjflksjjfg
+
+
+integer_number = 123
+float_number = 1.23
+
+new_number = integer_number + float_number
+
+# display new value and resulting data type
+print("Value:",new_number)
+print("Data Type:",type(new_number))
